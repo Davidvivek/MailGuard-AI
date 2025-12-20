@@ -26,8 +26,3 @@
 * **AI Engine:** Google Gemini Pro API
 * **Frontend:** HTML5, Tailwind CSS 
 * **Scripting:** JavaScript (ES6+)
-
----
-```bash
-git clone [https://github.com/davidvivek/MailGuard-AI.git](https://github.com/davidvivek/MailGuard-AI.git)
-cd MailGuard-AI
