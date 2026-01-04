@@ -34,7 +34,7 @@ def analyze_email():
         # Combine user instructions with the user's email
         system_instruction = get_system_prompt()
         full_prompt = f"{system_instruction}\n\nEMAIL CONTENT:\n{email_content}"
-        
+         
         # Send to Google
         response = model.generate_content(full_prompt)
         
